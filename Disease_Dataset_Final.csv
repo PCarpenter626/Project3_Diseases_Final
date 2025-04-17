@@ -1,0 +1,350 @@
+Patient_ID,Disease,Fever,Cough,Fatigue,Difficulty Breathing,Age,Gender,Blood Pressure,Cholesterol Level,Outcome Variable,Categories
+1,Acne,No,No,Yes,No,40,Male,Normal,Normal,Negative,Young Adulthood
+2,Allergic Rhinitis,Yes,No,No,No,50,Male,High,High,Negative,Middle Age
+3,Allergic Rhinitis,No,Yes,Yes,No,45,Male,High,Normal,Negative,Middle Age
+4,Allergic Rhinitis,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Middle Age
+5,Allergic Rhinitis,No,Yes,No,No,38,Female,Low,Normal,Negative,Young Adulthood
+6,Allergic Rhinitis,No,No,Yes,No,35,Female,Normal,Low,Negative,Young Adulthood
+7,Allergic Rhinitis,No,Yes,Yes,No,29,Female,Normal,Low,Negative,Young Adulthood
+8,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Senior Citizen
+9,Alzheimer's Disease,Yes,No,Yes,No,70,Female,High,Normal,Negative,Senior Citizen
+10,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Senior Citizen
+11,Alzheimer's Disease,No,Yes,No,No,65,Male,Normal,High,Positive,Senior Citizen
+12,Alzheimer's Disease,No,No,Yes,No,65,Female,High,High,Positive,Senior Citizen
+13,Anemia,No,No,Yes,No,50,Male,Normal,Normal,Negative,Middle Age
+14,Anxiety Disorders,Yes,No,Yes,Yes,38,Male,High,High,Positive,Young Adulthood
+15,Anxiety Disorders,Yes,Yes,No,No,55,Female,Normal,Low,Positive,Middle Age
+16,Anxiety Disorders,No,No,Yes,No,50,Male,Normal,Normal,Negative,Middle Age
+17,Anxiety Disorders,Yes,Yes,Yes,No,45,Male,High,Normal,Positive,Middle Age
+18,Anxiety Disorders,No,No,No,No,42,Male,Low,Normal,Negative,Middle Age
+19,Anxiety Disorders,No,Yes,No,No,29,Female,Normal,High,Negative,Young Adulthood
+20,Appendicitis,Yes,No,Yes,No,55,Male,Normal,Normal,Negative,Middle Age
+21,Asthma,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Middle Age
+22,Asthma,Yes,Yes,Yes,Yes,50,Female,Normal,High,Positive,Middle Age
+23,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,Middle Age
+24,Asthma,Yes,Yes,No,Yes,45,Male,Normal,Normal,Positive,Middle Age
+25,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Young Adulthood
+26,Asthma,Yes,Yes,No,Yes,40,Female,Normal,Normal,Positive,Young Adulthood
+27,Asthma,No,No,Yes,Yes,40,Male,High,High,Positive,Young Adulthood
+28,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Young Adulthood
+29,Asthma,Yes,No,Yes,Yes,40,Male,Normal,High,Positive,Young Adulthood
+30,Asthma,No,Yes,Yes,Yes,35,Female,Normal,High,Negative,Young Adulthood
+31,Asthma,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Young Adulthood
+32,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,Young Adulthood
+33,Asthma,No,Yes,Yes,Yes,35,Female,High,Normal,Negative,Young Adulthood
+34,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Young Adulthood
+35,Asthma,Yes,Yes,No,Yes,35,Male,Normal,Normal,Positive,Young Adulthood
+36,Asthma,No,No,No,Yes,31,Male,Normal,Low,Negative,Young Adulthood
+37,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Young Adulthood
+38,Asthma,Yes,Yes,No,Yes,30,Female,Normal,Normal,Positive,Young Adulthood
+39,Asthma,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Young Adulthood
+40,Asthma,Yes,No,No,Yes,28,Male,High,Normal,Positive,Young Adulthood
+41,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Young Adulthood
+42,Asthma,Yes,Yes,No,Yes,25,Male,Normal,Normal,Positive,Young Adulthood
+43,Asthma,Yes,No,Yes,No,40,Male,Low,Normal,Positive,Young Adulthood
+44,Atherosclerosis,No,No,Yes,No,35,Male,Normal,Normal,Negative,Young Adulthood
+45,Autism Spectrum Disorder (ASD),No,No,Yes,No,45,Male,Normal,Normal,Negative,Middle Age
+46,Bipolar Disorder,No,No,Yes,No,30,Female,High,High,Positive,Young Adulthood
+47,Bladder Cancer,No,No,Yes,No,65,Male,Normal,Normal,Negative,Senior Citizen
+48,Brain Tumor,No,No,Yes,No,40,Male,Normal,Normal,Negative,Young Adulthood
+49,Breast Cancer,No,No,Yes,No,60,Male,High,High,Negative,Middle Age
+50,Bronchitis,Yes,No,Yes,Yes,65,Male,High,High,Positive,Senior Citizen
+51,Bronchitis,No,No,Yes,Yes,55,Male,High,High,Negative,Middle Age
+52,Bronchitis,Yes,Yes,Yes,Yes,55,Male,High,Normal,Negative,Middle Age
+53,Bronchitis,Yes,Yes,Yes,Yes,50,Male,High,High,Positive,Middle Age
+54,Bronchitis,No,Yes,No,Yes,40,Female,Normal,Normal,Negative,Young Adulthood
+55,Bronchitis,Yes,Yes,No,Yes,30,Female,Low,Normal,Positive,Young Adulthood
+56,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Young Adulthood
+57,Bronchitis,Yes,Yes,Yes,Yes,30,Male,High,High,Positive,Young Adulthood
+58,Cataracts,No,No,Yes,No,45,Female,Normal,High,Positive,Middle Age
+59,Cerebral Palsy,No,No,Yes,Yes,30,Female,Normal,Normal,Positive,Young Adulthood
+60,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Young Adulthood
+61,Chickenpox,No,Yes,No,No,40,Male,Normal,High,Positive,Young Adulthood
+62,Cholecystitis,No,No,Yes,No,70,Male,Normal,Normal,Negative,Senior Citizen
+63,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Middle Age
+64,Cholera,Yes,No,Yes,Yes,50,Female,High,High,Negative,Middle Age
+65,Chronic Kidney Disease,No,No,Yes,No,60,Female,Normal,High,Positive,Middle Age
+66,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Senior Citizen
+67,Chronic Obstructive Pulmonary Disease (COPD),No,Yes,Yes,Yes,70,Male,Normal,High,Negative,Senior Citizen
+68,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Senior Citizen
+69,Chronic Obstructive Pulmonary Disease (COPD),Yes,No,Yes,Yes,65,Female,High,High,Positive,Senior Citizen
+70,Chronic Obstructive Pulmonary...,Yes,Yes,Yes,Yes,35,Male,Normal,Normal,Negative,Young Adulthood
+71,Cirrhosis,No,No,Yes,No,35,Female,Normal,High,Positive,Young Adulthood
+72,Colorectal Cancer,No,No,Yes,No,30,Female,Normal,High,Positive,Young Adulthood
+73,Common Cold,Yes,No,Yes,Yes,55,Male,Normal,Low,Negative,Middle Age
+74,Common Cold,Yes,No,Yes,Yes,31,Male,High,High,Positive,Young Adulthood
+75,Common Cold,Yes,Yes,No,No,42,Female,High,High,Negative,Middle Age
+76,Common Cold,Yes,Yes,Yes,No,35,Male,High,Normal,Negative,Young Adulthood
+77,Common Cold,No,No,No,No,29,Female,Low,Normal,Negative,Young Adulthood
+78,Common Cold,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Young Adulthood
+79,Conjunctivitis (Pink Eye),No,Yes,No,No,35,Female,High,High,Positive,Young Adulthood
+80,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Middle Age
+81,Coronary Artery Disease,Yes,Yes,No,No,60,Male,High,High,Negative,Middle Age
+82,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Middle Age
+83,Coronary Artery Disease,No,No,Yes,No,55,Female,Normal,Normal,Positive,Middle Age
+84,Coronary Artery Disease,No,No,Yes,No,40,Female,High,High,Positive,Young Adulthood
+85,Crohn's Disease,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Middle Age
+86,Crohn's Disease,No,No,Yes,No,50,Male,Normal,High,Negative,Middle Age
+87,Crohn's Disease,Yes,No,Yes,No,45,Male,High,Normal,Negative,Middle Age
+88,Crohn's Disease,No,No,Yes,No,45,Female,High,High,Positive,Middle Age
+89,Crohn's Disease,Yes,Yes,Yes,No,45,Female,High,High,Positive,Middle Age
+90,Cystic Fibrosis,No,No,Yes,Yes,40,Male,High,High,Negative,Young Adulthood
+91,Dementia,No,No,Yes,No,65,Female,High,High,Positive,Senior Citizen
+92,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Young Adulthood
+93,Dengue Fever,Yes,No,Yes,No,30,Female,Normal,Normal,Negative,Young Adulthood
+94,Depression,Yes,No,No,Yes,42,Male,High,Normal,Negative,Middle Age
+95,Depression,Yes,Yes,Yes,Yes,29,Male,High,Normal,Positive,Young Adulthood
+96,Depression,No,Yes,Yes,No,50,Female,Low,Low,Negative,Middle Age
+97,Depression,No,No,Yes,No,45,Female,High,High,Positive,Middle Age
+98,Depression,No,No,No,No,38,Female,Normal,High,Negative,Young Adulthood
+99,Depression,No,No,Yes,No,35,Female,Normal,High,Positive,Young Adulthood
+100,Diabetes,Yes,No,Yes,Yes,38,Male,High,Low,Positive,Young Adulthood
+101,Diabetes,No,No,Yes,No,65,Male,Normal,High,Negative,Senior Citizen
+102,Diabetes,Yes,Yes,Yes,No,65,Female,Normal,High,Positive,Senior Citizen
+103,Diabetes,No,Yes,No,No,55,Female,Normal,High,Negative,Middle Age
+104,Diabetes,No,Yes,No,No,50,Male,Normal,High,Negative,Middle Age
+105,Diabetes,Yes,No,Yes,No,45,Female,High,High,Positive,Middle Age
+106,Diabetes,No,Yes,Yes,No,45,Male,Normal,High,Positive,Middle Age
+107,Diabetes,Yes,Yes,Yes,No,42,Male,High,Normal,Positive,Middle Age
+108,Diabetes,Yes,No,No,No,40,Female,High,High,Negative,Young Adulthood
+109,Diabetes,No,No,No,No,29,Male,Low,Normal,Negative,Young Adulthood
+110,Diverticulitis,No,No,Yes,No,65,Female,High,High,Positive,Senior Citizen
+111,Down Syndrome,No,No,Yes,No,50,Female,High,High,Positive,Middle Age
+112,"Eating Disorders (Anorexia,...",No,No,Yes,No,40,Female,High,High,Positive,Young Adulthood
+113,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Middle Age
+114,Ebola Virus,Yes,Yes,Yes,Yes,50,Male,Normal,Normal,Positive,Middle Age
+115,Eczema,No,Yes,No,No,50,Female,High,High,Positive,Middle Age
+116,Eczema,No,Yes,No,No,35,Male,High,Normal,Negative,Young Adulthood
+117,Eczema,No,Yes,Yes,No,30,Male,High,High,Negative,Young Adulthood
+118,Eczema,Yes,No,No,No,30,Male,High,High,Positive,Young Adulthood
+119,Eczema,No,Yes,Yes,No,25,Female,Normal,Normal,Negative,Young Adulthood
+120,Eczema,Yes,No,No,No,25,Female,Normal,Normal,Positive,Young Adulthood
+121,Endometriosis,Yes,No,No,No,50,Male,High,Normal,Negative,Middle Age
+122,Epilepsy,No,No,Yes,No,35,Male,High,High,Negative,Young Adulthood
+123,Esophageal Cancer,No,No,Yes,No,55,Male,Normal,Normal,Negative,Middle Age
+124,Fibromyalgia,No,No,Yes,No,40,Female,High,High,Positive,Young Adulthood
+125,Gastroenteritis,Yes,Yes,Yes,Yes,50,Female,High,Normal,Positive,Middle Age
+126,Gastroenteritis,Yes,No,Yes,Yes,35,Male,Low,High,Positive,Young Adulthood
+127,Gastroenteritis,Yes,Yes,Yes,No,40,Male,High,High,Positive,Young Adulthood
+128,Gastroenteritis,No,No,No,No,38,Male,Normal,Low,Negative,Young Adulthood
+129,Gastroenteritis,Yes,Yes,Yes,No,30,Male,High,High,Negative,Young Adulthood
+130,Gastroenteritis,No,Yes,No,No,29,Female,Normal,Normal,Negative,Young Adulthood
+131,Glaucoma,No,No,Yes,No,40,Male,High,Normal,Negative,Young Adulthood
+132,Gout,Yes,No,Yes,No,70,Female,Normal,High,Positive,Senior Citizen
+133,Hemophilia,No,No,Yes,No,60,Female,Normal,Normal,Positive,Middle Age
+134,Hemophilia,No,No,Yes,No,40,Female,Normal,Normal,Positive,Young Adulthood
+135,Hemorrhoids,No,No,No,No,55,Female,High,High,Positive,Middle Age
+136,Hepatitis,Yes,Yes,Yes,Yes,30,Male,High,Normal,Negative,Young Adulthood
+137,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Middle Age
+138,Hepatitis,Yes,No,Yes,No,45,Female,High,High,Negative,Middle Age
+139,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Middle Age
+140,Hepatitis B,No,Yes,Yes,No,60,Male,Normal,Low,Positive,Middle Age
+141,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Middle Age
+142,HIV/AIDS,Yes,No,No,No,55,Female,High,High,Negative,Middle Age
+143,Hyperglycemia,No,No,Yes,No,45,Male,Normal,Normal,Negative,Middle Age
+144,Hypertension,No,No,Yes,No,60,Female,High,Normal,Positive,Middle Age
+145,Hypertension,Yes,No,Yes,No,60,Male,High,Normal,Positive,Middle Age
+146,Hypertension,No,No,No,No,60,Female,High,High,Positive,Middle Age
+147,Hypertension,No,Yes,No,No,55,Female,Normal,Low,Negative,Middle Age
+148,Hypertension,Yes,No,Yes,No,55,Male,High,Normal,Positive,Middle Age
+149,Hypertension,Yes,Yes,No,No,52,Male,Normal,Low,Negative,Middle Age
+150,Hypertension,No,Yes,No,No,50,Female,Normal,Low,Negative,Middle Age
+151,Hypertension,No,No,No,No,48,Female,Low,High,Negative,Middle Age
+152,Hypertension,Yes,No,Yes,No,45,Male,Normal,High,Positive,Middle Age
+153,Hypertension,Yes,Yes,Yes,No,35,Female,High,Normal,Negative,Young Adulthood
+154,Hypertensive Heart Disease,No,No,Yes,No,30,Female,High,High,Positive,Young Adulthood
+155,Hyperthyroidism,No,No,Yes,No,60,Male,Normal,Normal,Negative,Middle Age
+156,Hyperthyroidism,No,No,Yes,No,40,Male,High,High,Positive,Young Adulthood
+157,Hyperthyroidism,Yes,Yes,Yes,No,35,Female,Normal,Normal,Negative,Young Adulthood
+158,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Young Adulthood
+159,Hyperthyroidism,Yes,Yes,Yes,No,35,Male,High,High,Positive,Young Adulthood
+160,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Young Adulthood
+161,Hyperthyroidism,No,Yes,No,No,28,Female,Normal,Normal,Negative,Young Adulthood
+162,Hypoglycemia,No,No,Yes,No,40,Female,High,High,Positive,Young Adulthood
+163,Hypothyroidism,No,No,Yes,No,55,Female,High,High,Positive,Middle Age
+164,Hypothyroidism,Yes,Yes,Yes,No,50,Male,Normal,High,Negative,Middle Age
+165,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Middle Age
+166,Hypothyroidism,No,No,Yes,No,48,Male,Normal,High,Negative,Middle Age
+167,Hypothyroidism,No,No,Yes,No,45,Female,High,High,Positive,Middle Age
+168,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Middle Age
+169,Hypothyroidism,Yes,Yes,Yes,No,42,Female,High,High,Positive,Middle Age
+170,Influenza,Yes,Yes,Yes,Yes,56,Male,High,High,Positive,Middle Age
+171,Influenza,Yes,Yes,Yes,Yes,30,Female,Normal,Normal,Positive,Young Adulthood
+172,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Young Adulthood
+173,Influenza,Yes,Yes,Yes,Yes,25,Female,Normal,Normal,Positive,Young Adulthood
+174,Influenza,Yes,No,Yes,Yes,19,Female,Low,Normal,Positive,Young Adulthood
+175,Influenza,No,Yes,No,No,42,Female,Normal,High,Negative,Middle Age
+176,Influenza,No,No,No,No,38,Male,Normal,Normal,Negative,Young Adulthood
+177,Influenza,Yes,Yes,Yes,No,30,Male,High,Normal,Positive,Young Adulthood
+178,Kidney Cancer,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Middle Age
+179,Kidney Cancer,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Middle Age
+180,Kidney Cancer,No,Yes,No,No,50,Male,Low,High,Negative,Middle Age
+181,Kidney Cancer,Yes,No,No,No,42,Female,Normal,Normal,Negative,Middle Age
+182,Kidney Cancer,No,No,Yes,No,35,Male,High,High,Positive,Young Adulthood
+183,Kidney Cancer,No,No,Yes,No,30,Male,Normal,Normal,Negative,Young Adulthood
+184,Kidney Disease,Yes,Yes,Yes,Yes,60,Female,High,High,Positive,Middle Age
+185,Kidney Disease,No,Yes,No,Yes,50,Male,Normal,Normal,Negative,Middle Age
+186,Kidney Disease,Yes,Yes,No,No,45,Male,Normal,High,Negative,Middle Age
+187,Kidney Disease,Yes,No,Yes,No,42,Female,High,Low,Positive,Middle Age
+188,Kidney Disease,No,No,Yes,No,38,Female,Low,Normal,Negative,Young Adulthood
+189,Klinefelter Syndrome,No,No,Yes,No,50,Female,Normal,Normal,Positive,Middle Age
+190,Klinefelter Syndrome,No,No,Yes,No,39,Female,Normal,Normal,Positive,Young Adulthood
+191,Liver Cancer,No,Yes,Yes,Yes,50,Male,High,High,Positive,Middle Age
+192,Liver Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Middle Age
+193,Liver Cancer,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Young Adulthood
+194,Liver Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Senior Citizen
+195,Liver Cancer,Yes,Yes,No,No,38,Female,High,Normal,Negative,Young Adulthood
+196,Liver Cancer,No,No,Yes,No,35,Female,High,High,Positive,Young Adulthood
+197,Liver Disease,Yes,No,No,Yes,42,Female,Normal,Normal,Negative,Middle Age
+198,Liver Disease,No,Yes,No,Yes,38,Male,Low,Normal,Negative,Young Adulthood
+199,Liver Disease,No,Yes,Yes,No,55,Male,High,Low,Negative,Middle Age
+200,Liver Disease,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Middle Age
+201,Liver Disease,No,No,Yes,No,35,Male,High,High,Positive,Young Adulthood
+202,Lung Cancer,Yes,No,Yes,Yes,42,Male,Normal,Low,Negative,Middle Age
+203,Lung Cancer,Yes,Yes,Yes,No,65,Female,High,High,Positive,Senior Citizen
+204,Lung Cancer,Yes,No,Yes,No,65,Female,Normal,High,Positive,Senior Citizen
+205,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Middle Age
+206,Lyme Disease,Yes,No,No,No,50,Male,Normal,High,Positive,Middle Age
+207,Lymphoma,No,Yes,No,No,40,Female,Normal,High,Positive,Young Adulthood
+208,Malaria,Yes,No,No,No,35,Male,High,High,Positive,Young Adulthood
+209,Malaria,Yes,No,No,No,35,Male,High,High,Positive,Young Adulthood
+210,Marfan Syndrome,No,No,Yes,No,55,Male,High,High,Negative,Middle Age
+211,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Middle Age
+212,Measles,Yes,Yes,No,No,60,Female,High,Normal,Negative,Middle Age
+213,Melanoma,Yes,No,Yes,No,45,Male,High,Normal,Negative,Middle Age
+214,Migraine,No,Yes,Yes,Yes,55,Female,Normal,Low,Negative,Middle Age
+215,Migraine,No,No,Yes,No,70,Female,Normal,Normal,Positive,Senior Citizen
+216,Migraine,No,No,No,No,45,Female,Low,Normal,Negative,Middle Age
+217,Migraine,Yes,Yes,Yes,No,42,Male,High,High,Negative,Middle Age
+218,Migraine,Yes,Yes,No,No,38,Male,High,High,Positive,Young Adulthood
+219,Migraine,No,Yes,Yes,No,35,Male,High,High,Positive,Young Adulthood
+220,Migraine,Yes,No,No,No,35,Male,High,High,Positive,Young Adulthood
+221,Migraine,Yes,No,No,No,31,Female,Normal,Normal,Positive,Young Adulthood
+222,Migraine,Yes,No,No,No,30,Female,Normal,Normal,Negative,Young Adulthood
+223,Migraine,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Young Adulthood
+224,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Middle Age
+225,Multiple Sclerosis,No,Yes,Yes,No,52,Male,Normal,Normal,Negative,Middle Age
+226,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Middle Age
+227,Multiple Sclerosis,Yes,No,No,No,45,Female,High,High,Positive,Middle Age
+228,Multiple Sclerosis,No,No,Yes,No,30,Female,High,High,Positive,Young Adulthood
+229,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,Senior Citizen
+230,Mumps,No,No,Yes,No,65,Male,Normal,High,Positive,Senior Citizen
+231,Muscular Dystrophy,No,No,Yes,No,30,Male,High,High,Negative,Young Adulthood
+232,Myocardial Infarction (Heart...,Yes,Yes,Yes,Yes,30,Female,High,High,Positive,Young Adulthood
+233,Obsessive-Compulsive Disorde...,No,No,Yes,No,35,Male,Normal,Normal,Negative,Young Adulthood
+234,Osteoarthritis,No,Yes,No,Yes,60,Female,Normal,Normal,Negative,Middle Age
+235,Osteoarthritis,Yes,No,Yes,Yes,45,Male,High,Normal,Positive,Middle Age
+236,Osteoarthritis,Yes,Yes,No,No,55,Female,High,High,Positive,Middle Age
+237,Osteoarthritis,No,No,Yes,No,42,Male,Normal,Low,Negative,Middle Age
+238,Osteoarthritis,No,No,Yes,No,40,Male,High,Normal,Negative,Young Adulthood
+239,Osteoarthritis,Yes,Yes,Yes,No,38,Male,High,High,Positive,Young Adulthood
+240,Osteomyelitis,No,No,Yes,No,60,Male,Normal,Normal,Negative,Middle Age
+241,Osteoporosis,Yes,No,Yes,Yes,55,Male,High,Low,Positive,Middle Age
+242,Osteoporosis,No,No,No,Yes,31,Male,Low,Normal,Negative,Young Adulthood
+243,Osteoporosis,Yes,No,No,No,70,Male,Normal,Normal,Negative,Senior Citizen
+244,Osteoporosis,No,Yes,Yes,No,65,Female,High,High,Positive,Senior Citizen
+245,Osteoporosis,Yes,No,No,No,60,Male,High,High,Negative,Middle Age
+246,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Middle Age
+247,Osteoporosis,No,Yes,No,No,60,Male,High,High,Negative,Middle Age
+248,Osteoporosis,Yes,No,Yes,No,60,Male,High,Normal,Positive,Middle Age
+249,Osteoporosis,No,No,Yes,No,55,Male,High,Normal,Negative,Middle Age
+250,Osteoporosis,No,Yes,Yes,No,55,Female,Normal,Normal,Positive,Middle Age
+251,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,Middle Age
+252,Osteoporosis,Yes,No,Yes,No,55,Female,Normal,Normal,Positive,Middle Age
+253,Osteoporosis,Yes,Yes,Yes,No,45,Female,Normal,High,Positive,Middle Age
+254,Osteoporosis,No,Yes,No,No,38,Female,Normal,High,Negative,Young Adulthood
+255,Otitis Media (Ear Infection),Yes,Yes,Yes,No,65,Male,Normal,Normal,Negative,Senior Citizen
+256,Ovarian Cancer,No,No,Yes,No,45,Male,Normal,Normal,Negative,Middle Age
+257,Pancreatic Cancer,No,No,Yes,No,50,Female,High,High,Positive,Middle Age
+258,Pancreatitis,No,Yes,Yes,Yes,45,Male,Normal,Low,Negative,Middle Age
+259,Pancreatitis,Yes,Yes,Yes,No,60,Female,High,Normal,Positive,Middle Age
+260,Pancreatitis,No,Yes,No,No,50,Male,Low,High,Negative,Middle Age
+261,Pancreatitis,No,No,Yes,No,35,Male,Normal,High,Positive,Young Adulthood
+262,Pancreatitis,Yes,No,No,No,29,Female,High,Normal,Negative,Young Adulthood
+263,Parkinson's Disease,No,No,Yes,No,70,Male,Normal,Normal,Negative,Senior Citizen
+264,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Middle Age
+265,Parkinson's Disease,Yes,Yes,No,No,60,Male,High,Normal,Positive,Middle Age
+266,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Middle Age
+267,Parkinson's Disease,No,No,Yes,No,55,Female,Normal,Low,Negative,Middle Age
+268,Pneumocystis Pneumonia (PCP),Yes,Yes,Yes,No,45,Female,High,High,Positive,Middle Age
+269,Pneumonia,Yes,Yes,No,Yes,57,Male,Normal,High,Negative,Middle Age
+270,Pneumonia,Yes,Yes,Yes,Yes,45,Male,High,High,Positive,Middle Age
+271,Pneumonia,No,Yes,Yes,Yes,43,Female,High,Normal,Positive,Middle Age
+272,Pneumonia,Yes,Yes,Yes,Yes,40,Female,Normal,High,Positive,Young Adulthood
+273,Pneumonia,Yes,Yes,Yes,Yes,38,Male,Normal,Normal,Positive,Young Adulthood
+274,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Young Adulthood
+275,Pneumonia,Yes,Yes,Yes,Yes,35,Female,Normal,Normal,Negative,Young Adulthood
+276,Pneumonia,Yes,No,Yes,Yes,32,Female,High,Normal,Positive,Young Adulthood
+277,Pneumothorax,No,No,Yes,Yes,50,Female,High,High,Positive,Middle Age
+278,Polio,Yes,Yes,Yes,No,60,Male,Normal,Normal,Negative,Middle Age
+279,Polycystic Ovary Syndrome (PCOS),Yes,Yes,No,No,55,Female,Normal,Normal,Positive,Middle Age
+280,Prader-Willi Syndrome,No,No,Yes,No,60,Female,Normal,Normal,Positive,Middle Age
+281,Prostate Cancer,Yes,Yes,No,No,70,Male,High,Normal,Negative,Senior Citizen
+282,Psoriasis,No,Yes,Yes,No,40,Male,High,Normal,Positive,Young Adulthood
+283,Psoriasis,Yes,No,No,No,40,Male,High,Normal,Positive,Young Adulthood
+284,Psoriasis,No,Yes,No,No,40,Female,Normal,High,Positive,Young Adulthood
+285,Psoriasis,Yes,No,No,No,35,Female,Normal,Low,Negative,Young Adulthood
+286,Psoriasis,No,Yes,Yes,No,35,Female,Normal,Low,Negative,Young Adulthood
+287,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Young Adulthood
+288,Rabies,Yes,Yes,No,No,40,Female,High,Normal,Negative,Young Adulthood
+289,Rheumatoid Arthritis,No,Yes,Yes,Yes,29,Female,High,High,Negative,Young Adulthood
+290,Rheumatoid Arthritis,No,No,Yes,No,60,Female,High,High,Positive,Middle Age
+291,Rheumatoid Arthritis,No,Yes,No,No,50,Female,Low,Normal,Negative,Middle Age
+292,Rheumatoid Arthritis,Yes,No,No,No,45,Male,Normal,Normal,Negative,Middle Age
+293,Rheumatoid Arthritis,Yes,Yes,Yes,No,35,Male,Normal,Low,Positive,Young Adulthood
+294,Rheumatoid Arthritis,No,No,Yes,No,35,Female,Normal,Low,Positive,Young Adulthood
+295,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Young Adulthood
+296,Rubella,Yes,No,Yes,No,35,Female,High,Normal,Negative,Young Adulthood
+297,Schizophrenia,No,Yes,Yes,No,70,Male,Normal,Normal,Negative,Senior Citizen
+298,Scoliosis,No,No,No,No,45,Female,High,High,Positive,Middle Age
+299,Sepsis,Yes,Yes,Yes,No,50,Male,Normal,Normal,Negative,Middle Age
+300,Sickle Cell Anemia,No,No,Yes,No,45,Female,Normal,Normal,Positive,Middle Age
+301,Sinusitis,No,Yes,Yes,No,30,Male,Normal,Normal,Negative,Young Adulthood
+302,Sleep Apnea,Yes,No,Yes,Yes,50,Male,High,High,Negative,Middle Age
+303,Spina Bifida,No,No,Yes,No,35,Female,Normal,Normal,Positive,Young Adulthood
+304,Stroke,No,Yes,Yes,Yes,50,Male,High,High,Positive,Middle Age
+305,Stroke,Yes,Yes,Yes,Yes,29,Female,Normal,Normal,Positive,Young Adulthood
+306,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Senior Citizen
+307,Stroke,Yes,No,Yes,No,90,Female,High,High,Positive,Senior Citizen
+308,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Senior Citizen
+309,Stroke,Yes,No,Yes,No,85,Male,High,High,Positive,Senior Citizen
+310,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Senior Citizen
+311,Stroke,Yes,No,Yes,No,80,Female,High,High,Positive,Senior Citizen
+312,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Senior Citizen
+313,Stroke,No,Yes,No,No,70,Male,Normal,High,Positive,Senior Citizen
+314,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Senior Citizen
+315,Stroke,Yes,No,Yes,No,65,Female,High,Low,Negative,Senior Citizen
+316,Stroke,Yes,Yes,Yes,No,65,Female,High,High,Positive,Senior Citizen
+317,Stroke,No,No,Yes,No,45,Male,Normal,Normal,Negative,Middle Age
+318,Stroke,Yes,No,Yes,No,42,Male,Normal,Low,Negative,Middle Age
+319,Stroke,Yes,Yes,No,No,38,Female,High,Normal,Negative,Young Adulthood
+320,Systemic Lupus Erythematosus...,No,Yes,Yes,No,55,Female,High,High,Positive,Middle Age
+321,Testicular Cancer,No,No,Yes,No,70,Female,High,High,Positive,Senior Citizen
+322,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Middle Age
+323,Tetanus,No,No,Yes,No,45,Male,Normal,High,Positive,Middle Age
+324,Thyroid Cancer,No,No,Yes,No,60,Female,High,High,Positive,Middle Age
+325,Tonsillitis,Yes,Yes,Yes,No,70,Female,High,High,Positive,Senior Citizen
+326,Tourette Syndrome,No,No,Yes,No,65,Male,High,High,Negative,Senior Citizen
+327,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Young Adulthood
+328,Tuberculosis,Yes,Yes,Yes,Yes,40,Male,High,High,Positive,Young Adulthood
+329,Tuberculosis,Yes,Yes,Yes,No,60,Female,High,High,Positive,Middle Age
+330,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Middle Age
+331,Turner Syndrome,No,No,Yes,No,45,Male,High,High,Negative,Middle Age
+332,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Middle Age
+333,Typhoid Fever,No,Yes,No,No,55,Male,Normal,Low,Positive,Middle Age
+334,Ulcerative Colitis,No,Yes,Yes,No,50,Female,Normal,High,Positive,Middle Age
+335,Ulcerative Colitis,No,No,Yes,No,35,Male,High,High,Positive,Young Adulthood
+336,Ulcerative Colitis,Yes,No,No,No,35,Male,High,High,Positive,Young Adulthood
+337,Ulcerative Colitis,Yes,Yes,No,No,30,Female,Normal,Normal,Negative,Young Adulthood
+338,Ulcerative Colitis,No,Yes,Yes,No,30,Female,Normal,Normal,Negative,Young Adulthood
+339,Urinary Tract Infection,Yes,Yes,No,Yes,50,Male,High,Normal,Negative,Middle Age
+340,Urinary Tract Infection,No,Yes,Yes,Yes,42,Female,Normal,Low,Negative,Middle Age
+341,Urinary Tract Infection,No,No,No,No,45,Female,Low,Normal,Negative,Middle Age
+342,Urinary Tract Infection,Yes,No,Yes,No,35,Female,Normal,High,Positive,Young Adulthood
+343,Urinary Tract Infection,Yes,Yes,Yes,No,29,Male,High,High,Positive,Young Adulthood
+344,Urinary Tract Infection (UTI),Yes,No,Yes,No,65,Male,High,Normal,Negative,Senior Citizen
+345,Urinary Tract Infection (UTI),No,Yes,Yes,No,35,Male,High,High,Negative,Young Adulthood
+346,Urinary Tract Infection (UTI),Yes,No,No,No,30,Female,Normal,Normal,Positive,Young Adulthood
+347,Williams Syndrome,No,No,Yes,No,70,Female,Normal,Normal,Positive,Senior Citizen
+348,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Middle Age
+349,Zika Virus,No,Yes,Yes,No,45,Female,High,High,Negative,Middle Age
